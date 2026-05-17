@@ -12,3 +12,4 @@ contract Counter {
         number++;
     }
 }
+//asdassdasf
